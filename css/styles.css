@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-style: arial;
+  font-weight: bold;
+  font-family: cursive;
+  font-size: 100px;
+  line-height: 150%;
+}
